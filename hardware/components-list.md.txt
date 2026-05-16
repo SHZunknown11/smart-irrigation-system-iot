@@ -1,0 +1,24 @@
+# Components Used
+
+## Hardware Components
+
+- ESP8266 NodeMCU (ESP-12E)
+- Soil Moisture Sensor
+- Single Channel Relay Module
+- Mini DC Water Pump
+- Breadboard
+- Jumper Wires
+- Water Pipes
+- Plant Pot with Soil
+- Water Reservoir
+
+## Power Components
+
+- 9V Batteries ×3
+- Power Bank (5V USB Output)
+- Micro USB Data Cable (USB to B type)
+
+## Software & Platforms
+
+- Arduino IDE
+- Blynk IoT Platform
